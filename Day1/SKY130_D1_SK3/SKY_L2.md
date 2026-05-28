@@ -270,6 +270,14 @@ This is especially useful for:
 
 ---
 
+![tcl script](images/SKY_L2/tcl_1.png)
+![tcl script](images/SKY_L2/tcl_2.png)
+![Designs](images/SKY_L2/terminal_designs.png)
+![Designs](images/SKY_L2/terminal_designs_2.png)
+![Config.tcl](images/SKY_L2/config_tcl.png)
+
+---
+
 # Key Takeaways
 
 - OpenLane supports interactive step-by-step flow execution.
