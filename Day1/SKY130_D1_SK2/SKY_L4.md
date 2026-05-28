@@ -288,7 +288,6 @@ Final GDSII
 - Yosys performs RTL synthesis.
 - ABC handles optimization and technology mapping.
 - OpenROAD manages physical implementation.
-- TritonRoute performs detailed routing.
 - Fault enables scan insertion and testing support.
 - Antenna violations must be handled carefully.
 - Magic and Netgen perform physical verification.
